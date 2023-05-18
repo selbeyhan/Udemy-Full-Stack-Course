@@ -1,0 +1,28 @@
+div {
+  width: 200px;
+  height: 200px;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+#uno {
+  background-color: #2097ff;
+  border: black 10px solid;
+  padding: 20px;
+}
+
+#dos {
+  background-color: #e34931;
+  border: solid 10px black;
+  border-top: solid 20px black;
+  margin-left: 260px;
+}
+
+#tres {
+  background-color: #3d1204;
+  border: 10px black solid;
+  margin-left: 40px;
+}
