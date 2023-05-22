@@ -14,28 +14,33 @@ h1 {
   font-size: 5rem;
 }
 
-img {
-  width: 200px;
-}
-
 footer {
   text-align: right;
   color: midnightblue;
 }
 
-.flex-container {
-  display: flex;
-  border: 10px solid red;
+.blue-text {
+  color: midnightblue;
 }
 
-.card-left {
-  flex: 1;
+.tile-image {
+  width: 25%;
+  float: left;
 }
 
-/* .card-middle {
-  flex: 0.5;
-} */
+.card-title {
+  float: left;
+}
 
-.card {
-  flex: 1;
+p {
+  float: left;
+  width: 25%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
