@@ -9,7 +9,6 @@ function startGame() {
     // Go Through the list to highlight the pattern
     highlightPatern(patternList);
 
-    
     alive = false;
   }
 }
